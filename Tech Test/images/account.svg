@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>1D616D02-7811-4EF9-B084-A38E18969136</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-Desktop" transform="translate(-1408.000000, -33.000000)">
+            <g id="Header-Desktop">
+                <g id="Top-Header-Section">
+                    <g id="Login" transform="translate(1409.000000, 34.000000)">
+                        <g id="Header-Login/Account-Icon">
+                            <circle id="Orders-Circle" stroke="#FFFFFF" cx="18" cy="18" r="18"></circle>
+                            <path d="M10.8,8.1 L10.8,11.671392 C10.8,12.004728 10.8695652,12.32028 10.8547246,12.1698 C11.2173913,14.01204 12.6986667,15.248256 14.4684058,15.248256 L15.4668986,15.248256 C15.4724638,15.248256 15.4757101,15.248712 15.4803478,15.248712 L20.5205797,15.248712 C20.5252174,15.248712 20.5307826,15.248256 20.5344928,15.248256 L21.5315942,15.248256 C23.3022609,15.248256 24.7830725,14.01204 25.1457391,12.1698 C25.1313623,12.32028 25.2,12.004728 25.2,11.671392 L25.2,8.1 L10.8,8.1 Z M13.6155362,20.88852 C13.6155362,23.268384 15.5791304,25.2 18.0004638,25.2 C20.4217971,25.2 22.3844638,23.268384 22.3844638,20.88852 C22.3844638,18.508656 20.4217971,16.576128 18.0004638,16.576128 C15.5791304,16.576128 13.6155362,18.508656 13.6155362,20.88852 Z" id="Account-Icon" fill="#FFFFFF" fill-rule="nonzero" transform="translate(18.000000, 16.650000) scale(1, -1) translate(-18.000000, -16.650000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
